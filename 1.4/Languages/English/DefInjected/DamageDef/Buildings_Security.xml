@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShockWaveLight.label>shockwave</ShockWaveLight.label>
+  <ShockWaveLight.deathMessage>{0} died in a shockwave.</ShockWaveLight.deathMessage>
+
+  <ShockWaveHeavy.label>shockwave</ShockWaveHeavy.label>
+  <ShockWaveHeavy.deathMessage>{0} died in a shockwave.</ShockWaveHeavy.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <RK_Axe.label>Ratkin axe</RK_Axe.label>
+  <RK_Axe.description>An axe made for cutting trees. It is a little small, but the wielder will be able to cut down trees faster.</RK_Axe.description>
+  <RK_Axe.tools.0.label>handle</RK_Axe.tools.0.label>
+  <RK_Axe.tools.1.label>edge</RK_Axe.tools.1.label>
+
+
+
+  <RK_Cleaver.label>Ratkin cleaver</RK_Cleaver.label>
+  <RK_Cleaver.description>A knife made for cutting meat. It allows the wielder to get more meat when butchering. It does not seem to be a good weapon.</RK_Cleaver.description>
+  <RK_Cleaver.tools.0.label>handle</RK_Cleaver.tools.0.label>
+  <RK_Cleaver.tools.1.label>edge</RK_Cleaver.tools.1.label>
+
+
+
+  <RK_Hockey.label>Ratkin hoe</RK_Hockey.label>
+  <RK_Hockey.description>A hoe made for digging up fields. It makes it easier to dig up the earth and plant seeds.</RK_Hockey.description>
+  <RK_Hockey.tools.0.label>point</RK_Hockey.tools.0.label>
+  <RK_Hockey.tools.1.label>edge</RK_Hockey.tools.1.label>
+
+
+
+  <RK_Fork.label>Ratkin pitchfork</RK_Fork.label>
+  <RK_Fork.description>A pitchfork. It making piles straw and moving hay more convenient.</RK_Fork.description>
+  <RK_Fork.tools.0.label>point</RK_Fork.tools.0.label>
+  <RK_Fork.tools.1.label>edge</RK_Fork.tools.1.label>
+
+
+
+  <RK_LongSword.label>Ratkin guardener longsword</RK_LongSword.label>
+  <RK_LongSword.description>A sword used by Guardeners defending their fields. It is a sharp weapon, making it easier to defeat enemies in the defense of the land.</RK_LongSword.description>
+  <RK_LongSword.tools.0.label>point</RK_LongSword.tools.0.label>
+  <RK_LongSword.tools.1.label>edge</RK_LongSword.tools.1.label>
+
+
+
+  <RK_Crossbow.label>Ratkin cross bow</RK_Crossbow.label>
+  <RK_Crossbow.description>A simple crossbow. It is traditionally used for hunting.</RK_Crossbow.description>
+  <RK_Crossbow.tools.0.label>limb</RK_Crossbow.tools.0.label>
+  <RK_Crossbow.tools.1.label>arrow</RK_Crossbow.tools.1.label>
+
+  <Bolt_RK_Crossbow.label>crossbow bolt</Bolt_RK_Crossbow.label>
+
+
+
+  <RK_EnhanceCrossBow.label>Ratkin enhanced cross bow</RK_EnhanceCrossBow.label>
+  <RK_EnhanceCrossBow.description>An improved crossbow. Its bolts travel further and penetrate thick hides or armor easier than its simpler counterpart.</RK_EnhanceCrossBow.description>
+  <RK_EnhanceCrossBow.tools.0.label>limb</RK_EnhanceCrossBow.tools.0.label>
+  <RK_EnhanceCrossBow.tools.1.label>arrow</RK_EnhanceCrossBow.tools.1.label>
+
+  <Bolt_RK_EnhanceCrossBow.label>crossbow bolt</Bolt_RK_EnhanceCrossBow.label>
+
+
+
+  <RK_AutoCrossBow.label>Ratkin autocross bow</RK_AutoCrossBow.label>
+  <RK_AutoCrossBow.description>A semi-automatic crossbow. You can fire bolts at high speeds from its magazine.</RK_AutoCrossBow.description>
+  <RK_AutoCrossBow.tools.0.label>limb</RK_AutoCrossBow.tools.0.label>
+  <RK_AutoCrossBow.tools.1.label>arrow</RK_AutoCrossBow.tools.1.label>
+
+  <Bolt_RK_AutoCrossBow.label>crossbow bolt</Bolt_RK_AutoCrossBow.label>
+
+
+
+  <RK_Rifle.label>Ratkin rifle</RK_Rifle.label>
+  <RK_Rifle.description>A rifle made for Ratkins. It was made to imitate a human rifle. It has a longer range than a crossbow and comes with a bayonet for use in close combat.</RK_Rifle.description>
+  <RK_Rifle.tools.0.label>stock</RK_Rifle.tools.0.label>
+  <RK_Rifle.tools.1.label>bayonet</RK_Rifle.tools.1.label>
+
+  <Bullet_RK_Rifle.label>rifle bullet</Bullet_RK_Rifle.label>
+
+
+
+  <RK_SniperRifle.label>Ratkin sniper rifle</RK_SniperRifle.label>
+  <RK_SniperRifle.description>A rifle with a Ratkin-developed telescopic sight. It can aim farther away, it gets less accurate the closer a target comes.</RK_SniperRifle.description>
+  <RK_SniperRifle.tools.0.label>stock</RK_SniperRifle.tools.0.label>
+  <RK_SniperRifle.tools.1.label>bayonet</RK_SniperRifle.tools.1.label>
+
+  <Bullet_RK_SniperRifle.label>rifle bullet</Bullet_RK_SniperRifle.label>
+
+
+
+  <RK_FlechetteRifle.label>Ratkin flechette rifle</RK_FlechetteRifle.label>
+  <RK_FlechetteRifle.description>A rifle that uses flechette-type bullets. It sacrifices range in order to have increased armor penetration. It comes with a bayonet for use in close combat.</RK_FlechetteRifle.description>
+  <RK_FlechetteRifle.tools.0.label>stock</RK_FlechetteRifle.tools.0.label>
+  <RK_FlechetteRifle.tools.1.label>bayonet</RK_FlechetteRifle.tools.1.label>
+  <RK_FlechetteRifle.tools.2.label>flechette</RK_FlechetteRifle.tools.2.label>
+
+  <Bullet_RK_FlechetteRifle.label>flechette</Bullet_RK_FlechetteRifle.label>
+
+
+
+  <RK_FlechetteSniperRifle.label>Ratkin flechette sniper rifle</RK_FlechetteSniperRifle.label>
+  <RK_FlechetteSniperRifle.description>A rifle with a Ratkin-developed telescopic sight that uses flechette-type bullets. It can penetrate armor at a long distance. It comes with a bayonet for use in close combat.</RK_FlechetteSniperRifle.description>
+  <RK_FlechetteSniperRifle.tools.0.label>stock</RK_FlechetteSniperRifle.tools.0.label>
+  <RK_FlechetteSniperRifle.tools.1.label>bayonet</RK_FlechetteSniperRifle.tools.1.label>
+  <RK_FlechetteSniperRifle.tools.2.label>flechette</RK_FlechetteSniperRifle.tools.2.label>
+
+  <Bullet_RK_FlechetteSniperRifle.label>flechette</Bullet_RK_FlechetteSniperRifle.label>
+
+
+
+  <RK_PrototypePulseRifle.label>Ratkin-prototype pulse rifle</RK_PrototypePulseRifle.label>
+  <RK_PrototypePulseRifle.description>An experimental pulse rifle made by Ratkin scientists. Special sights have been added to improve close-range and long-range shooting accuracy. This weapon fires a wedge-shaped, high-penetration energy projectile inspired by the Ratkin flechette bullet.</RK_PrototypePulseRifle.description>
+  <RK_PrototypePulseRifle.verbs.0.label>Rapid Fire</RK_PrototypePulseRifle.verbs.0.label>
+  <RK_PrototypePulseRifle.verbs.1.label>Precisely Fire</RK_PrototypePulseRifle.verbs.1.label>
+  <RK_PrototypePulseRifle.tools.0.label>stock</RK_PrototypePulseRifle.tools.0.label>
+  <RK_PrototypePulseRifle.tools.1.label>barrel</RK_PrototypePulseRifle.tools.1.label>
+
+  <Bullet_RK_PrototypePulseRifleLight.label>wedge bullet</Bullet_RK_PrototypePulseRifleLight.label>
+  <Bullet_RK_PrototypePulseRifleHeavy.label>wedge bullet</Bullet_RK_PrototypePulseRifleHeavy.label>
+
+
+
+  <RK_BFR.label>BFR 3000</RK_BFR.label>
+  <RK_BFR.description>Big Force Rifle 3000. Self-explanatory.</RK_BFR.description>
+  <RK_BFR.verbs.0.label>AP fire</RK_BFR.verbs.0.label>
+  <RK_BFR.verbs.1.label>SC fire</RK_BFR.verbs.1.label>
+  <RK_BFR.tools.0.label>stock</RK_BFR.tools.0.label>
+  <RK_BFR.tools.1.label>barrel</RK_BFR.tools.1.label>
+
+  <Bullet_BFR_AP.label>wedge bullet (AP)</Bullet_BFR_AP.label>
+  <Bullet_BFR_SC.label>wedge bullet (SC)</Bullet_BFR_SC.label>
+
+
+  <!--<Bullet_RK_PrototypePulseRifle.label>wedge bullet</Bullet_RK_PrototypePulseRifle.label>-->
+  
+  <!-- 샷건 -->
+
+  <RK_Rifle_line.label>ratkin shotgun</RK_Rifle_line.label>
+  <RK_Rifle_line.description>A sawed-off shotgun. Used in Ratkin kingdoms, they are typically used between Ratkins in territory disputes.</RK_Rifle_line.description>
+  <RK_Rifle_line.verbs.0.label>Buck fire</RK_Rifle_line.verbs.0.label>
+  <RK_Rifle_line.verbs.1.label>Slug fire</RK_Rifle_line.verbs.1.label>
+  <RK_Rifle_line.tools.0.label>stock</RK_Rifle_line.tools.0.label>
+  <RK_Rifle_line.tools.1.label>barrel</RK_Rifle_line.tools.1.label>
+  <RK_Rifle_line.tools.2.label>bayonet</RK_Rifle_line.tools.2.label>
+
+  <Bullet_RK_Buck.label>Buck bullet</Bullet_RK_Buck.label>
+  <Bullet_RK_Slug.label>Slug bullet</Bullet_RK_Slug.label>
+
+</LanguageData>

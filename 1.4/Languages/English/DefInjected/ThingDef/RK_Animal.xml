@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RK_KingHamster.label>king hamster</RK_KingHamster.label>
+  <RK_KingHamster.description>A giant hamster. Unlike Ratkin, they never evolved into a higher being and were instead domesticated, becoming the primary farm animal of Ratkin society because of their cuteness and their large bodies. They are incredibly unintelligent, but they can be tamed and used as pack animals. They can easily tolerate hotter temperatures.</RK_KingHamster.description>
+  <RK_KingHamster.tools.0.label>head</RK_KingHamster.tools.0.label>
+  <RK_KingHamster.tools.1.label>left hand</RK_KingHamster.tools.1.label>
+  <RK_KingHamster.tools.2.label>right hand</RK_KingHamster.tools.2.label>
+
+  <RK_Leather_KingHamster.label>king hamster fur</RK_Leather_KingHamster.label>
+  <RK_Leather_KingHamster.description>The furry pelt of king hamster. The pelt is very breathable, allowing the wearer to tolerate hotter temperatures better..</RK_Leather_KingHamster.description>
+
+  <RK_Wool_KingHamster.label>king Hamster wool</RK_Wool_KingHamster.label>
+  <RK_Wool_KingHamster.description>Soft, light, and provides great insulation. King hamster wool clothes can the wearer warm or provide ventilation even in extreme temperatures.</RK_Wool_KingHamster.description>
+
+
+</LanguageData>

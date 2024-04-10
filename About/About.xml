@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Male Ratkin</name>
+	<author>OdysseyLotus</author>
+	<supportedVersions>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>odysseylotus.maleratkin</packageId>
+	<description>Adds male Ratkin and fixes some of the broken English in the base mod.
+	
+Personally, this was one that I was excited to make. Not only to I love the folksy aesthetic of the Ratkins, but I think that they are just super cute in general. However, I could never really play with the mod long-term because I didn't like how males were so rare and how you couldn't tell them apart from any females and the broken English in the mod would take me right out of the experience (of course, I don't blame any of the creators for that nor am I trying to make fun of them at all). With that said, I proudly present my Male Ratkin mod, packaged neatly with a free English patch.
+
+As is the usual spiel, I added the male bodytype and heads, created male variants of the clothes, and added new hair for male Ratkins (these are edited versions of hairstyles from AFU男士发型_Men's hairstyles and Gloomy Hair mk2). Here are some nice femboy rats.
+
+As with the Rabbies, since the female Ratkin use the thin body instead of the female body, it means that the male Ratkin will use either the thin body or the male body (you can see both body types in the preview image), although due to the backstory restrictions, you should see them use the male bodytype more often. Additionally, I have elected to make the male bodytype still rather slim, just because it feels weird to have a huge rat boy. They should still be kinda small, in my opinion.
+
+And since I included it, I might as well talk about the English patch. I went through everything that was in the Language folder for English in the original mod and tweaked whatever I thought sounded weird or was grammatically incorrect. And since the orignal authors are Korean, there was a lot that needed to be corrected. I want to be very clear that I do this out of respect for them and not to spite or make fun of them. Obviously, there was a large desire for an English version of the mod, and I can't blame them for doing their best. With that said, I have tweaked all the backstories, the scenario, the storyteller description, and a bunch of other flavor text and descriptions. I hope you enjoy reading through it.
+
+This mod comes with innate compatibility with Ratkin Apparel+. If you use that mod, then male versions of those outfits should be automatically added.
+
+If there are any other alien races you want me to add males to, let me know and I might devote some time to creating those assets and patches as well.</description>
+	<modDependencies>
+		<li>
+			<packageId>Solaris.RatkinRaceMod</packageId>
+			<displayName>NewRatkinPlus</displayName>
+			<steamWorkshopUrl>steamcommunity.com/sharedfiles/filedetails/?id=1578693166</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Solaris.RatkinRaceMod</li>
+		<li>Rin.RatkinApparel</li>
+		<li>hourai.ratkinglasses</li>
+		<li>AhnDemi.racesleepfaceaddon2</li>
+	</loadAfter>
+</ModMetaData>
