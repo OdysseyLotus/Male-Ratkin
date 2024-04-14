@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <AbilityPrayerServiceCooldown>The next prayer service can be held in</AbilityPrayerServiceCooldown>
-  <AbilityPrayerServiceDisabledAlreadyGivingPrayerService>{PAWN_labelShort} is already giving a prayer service.</AbilityPrayerServiceDisabledAlreadyGivingPrayerService>
-  <AbilityPrayerServiceDisabledDrafted>{PAWN_labelShort} can't use this ability while drafted.</AbilityPrayerServiceDisabledDrafted>
-  <AbilityPrayerServiceDisabledNoPulpit>No pulpit or ritual location present for a prayer service.</AbilityPrayerServiceDisabledNoPulpit>
-</LanguageData>

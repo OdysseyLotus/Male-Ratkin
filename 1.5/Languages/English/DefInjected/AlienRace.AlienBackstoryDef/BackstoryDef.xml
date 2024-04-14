@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <Ratkin_WildChild.title>Ratkin wild born</Ratkin_WildChild.title>
+  <Ratkin_WildChild.titleShort>wild born</Ratkin_WildChild.titleShort>
+  <Ratkin_WildChild.description>[PAWN_nameDef] grew up in the wild, far away from any civilization. The wilderness shaped [PAWN_objective], but [PAWN_pronoun] did not receive any kind of education.</Ratkin_WildChild.description>
+
+
+  <Ratkin_LandRat.title>Ratkin underground rat</Ratkin_LandRat.title>
+  <Ratkin_LandRat.titleShort>underground rat</Ratkin_LandRat.titleShort>
+  <Ratkin_LandRat.description>[PAWN_nameDef] was born in the darkness. After living in underground caves and tunnels for [PAWN_possessive] whole childhood, [PAWN_pronoun] became skilled at mining. However, when [PAWN_possessive] companions started going aboveground, [PAWN_pronoun] followed suit.</Ratkin_LandRat.description>
+
+  <Ratkin_CountryKid.title>Ratkin country kid</Ratkin_CountryKid.title>
+  <Ratkin_CountryKid.titleShort>country kid</Ratkin_CountryKid.titleShort>
+  <Ratkin_CountryKid.description>[PAWN_nameDef]'s grandparents were farmers and [PAWN_possessive] parents were farmers, too. [PAWN_pronoun] grew up working alongside the plants of the land with [PAWN_possessive] family, harvesting the bounties of nature.</Ratkin_CountryKid.description>
+
+
+  <Ratkin_ShepherdBoy.title>Ratkin shepherd boy</Ratkin_ShepherdBoy.title>
+  <Ratkin_ShepherdBoy.titleShort>shepherd boy</Ratkin_ShepherdBoy.titleShort>
+  <Ratkin_ShepherdBoy.description>[PAWN_nameDef] grew up working with animals in [PAWN_possessive] childhood. [PAWN_pronoun] bonded with [PAWN_possessive] flock, personally naming and taking care of each animal.</Ratkin_ShepherdBoy.description>
+
+
+  <Ratkin_Orphan.title>Ratkin orphan</Ratkin_Orphan.title>
+  <Ratkin_Orphan.titleShort>orphan</Ratkin_Orphan.titleShort>
+  <Ratkin_Orphan.description>Abandoned, [PAWN_nameDef] grew up without [PAWN_possessive] parents. [PAWN_pronoun] had to scrape by alone, so [PAWN_pronoun] became a jack-of-all-trades, but [PAWN_possessive] lack of education held [PAWN_objective] back.</Ratkin_Orphan.description>
+
+
+  <Ratkin_Student.title>Ratkin student</Ratkin_Student.title>
+  <Ratkin_Student.titleShort>student</Ratkin_Student.titleShort>
+  <Ratkin_Student.description>[PAWN_nameDef]'s family wasn't wealthy, so [PAWN_pronoun] took to studying to try to earn a better living. [PAWN_pronoun] was a gifted student, but [PAWN_possessive] intensive studies caused [PAWN_objective] to neglect [PAWN_possessive] physical health.</Ratkin_Student.description>
+
+
+  <Ratkin_LittleLibrarian.title>Ratkin little librarian</Ratkin_LittleLibrarian.title>
+  <Ratkin_LittleLibrarian.titleShort>little librarian</Ratkin_LittleLibrarian.titleShort>
+  <Ratkin_LittleLibrarian.description>[PAWN_nameDef]'s parents were librarians and [PAWN_pronoun] naturally took to reading. [PAWN_pronoun] gained a vast knowledge of many different subjects, but reading in the dark too much has given [PAWN_objective] terrible eyesight.</Ratkin_LittleLibrarian.description>
+
+
+  <Ratkin_GoldenSpoon.title>Ratkin silver spoon</Ratkin_GoldenSpoon.title>
+  <Ratkin_GoldenSpoon.titleShort>silver spoon</Ratkin_GoldenSpoon.titleShort>
+  <Ratkin_GoldenSpoon.description>[PAWN_nameDef] was born to a wealthy household. [PAWN_pronoun] grew to be a patron of the arts, but studying was never of any interest to [PAWN_objective].</Ratkin_GoldenSpoon.description>
+
+
+  <Ratkin_Bastard.title>Ratkin bastard</Ratkin_Bastard.title>
+  <Ratkin_Bastard.titleShort>bastard</Ratkin_Bastard.titleShort>
+  <Ratkin_Bastard.description>[PAWN_nameDef] was born as a child of a courtesan and a nobleman. [PAWN_possessive] mother attempted to make [PAWN_nameDef] the heir of the household, but after her plans were revealed, she ran away with [PAWN_nameDef].</Ratkin_Bastard.description>
+
+
+  <Ratkin_Successor.title>Ratkin successor</Ratkin_Successor.title>
+  <Ratkin_Successor.titleShort>successor</Ratkin_Successor.titleShort>
+  <Ratkin_Successor.description>[PAWN_nameDef] was born the heir of noble family. Due to a series of ill-conceived tax laws and land seizures, [PAWN_possessive] family was overthrown by their subjects in a civilian coup. [PAWN_nameDef] and [PAWN_possessive] family had to run away to avoid being assassinated.</Ratkin_Successor.description>
+
+
+  <Ratkin_GuardenerStudent.title>Ratkin guardener squire</Ratkin_GuardenerStudent.title>
+  <Ratkin_GuardenerStudent.titleShort>guardener squire</Ratkin_GuardenerStudent.titleShort>
+  <Ratkin_GuardenerStudent.description>[PAWN_nameDef] went on a path to become a guardener, the protectors of the land and the producers of crops. Only the best can take care of the enemy and the garden, and [PAWN_nameDef] was determined to become the best.</Ratkin_GuardenerStudent.description>
+
+
+  <Ratkin_ChefStudent.title>Ratkin chef student</Ratkin_ChefStudent.title>
+  <Ratkin_ChefStudent.titleShort>chef student</Ratkin_ChefStudent.titleShort>
+  <Ratkin_ChefStudent.description>Food was [PAWN_nameDef]'s bread and butter, and [PAWN_pronoun] started learning how to cook to satiate [PAWN_possessive] desires. For [PAWN_objective], food is the peak of satisfaction, so [PAWN_pronoun] left home to find a chef to teach [PAWN_objective].</Ratkin_ChefStudent.description>
+
+
+  <Ratkin_RomanyKid.title>Ratkin nomadic child</Ratkin_RomanyKid.title>
+  <Ratkin_RomanyKid.titleShort>nomadic child</Ratkin_RomanyKid.titleShort>
+  <Ratkin_RomanyKid.description>[PAWN_nameDef] moved from place to place with [PAWN_possessive] family, leaving off of the land. [PAWN_pronoun] was versatile and able to adapt to any situation, but the wanderer's life had unfortunately stunted [PAWN_possessive] ability to connect with others.</Ratkin_RomanyKid.description>
+
+
+  <Ratkin_OfficerChild.title>Ratkin military child</Ratkin_OfficerChild.title>
+  <Ratkin_OfficerChild.titleShort>military child</Ratkin_OfficerChild.titleShort>
+  <Ratkin_OfficerChild.description>[PAWN_nameDef] was born as a child of a military officer. [PAWN_pronoun] learned valuable shooting skills and how to lead others, but the high rank of [PAWN_possessive] parents gave [PAWN_objective] a big ego.</Ratkin_OfficerChild.description>
+
+
+  <Ratkin_MerchantKid.title>Ratkin merchant kid</Ratkin_MerchantKid.title>
+  <Ratkin_MerchantKid.titleShort>merchant kid</Ratkin_MerchantKid.titleShort>
+  <Ratkin_MerchantKid.description>[PAWN_nameDef] was born as a child of a merchant family. [PAWN_pronoun] watched [PAWN_possessive] parents run their business and learned how to make deals and haggle from them.</Ratkin_MerchantKid.description>
+
+
+  <Ratkin_Kid.title>Ratkin kid</Ratkin_Kid.title>
+  <Ratkin_Kid.titleShort>kid</Ratkin_Kid.titleShort>
+  <Ratkin_Kid.description>[PAWN_nameDef] is just a kid. learned many things what parents do over shoulder in ordinary family. But couldn't build professional knowledge because didn't have chance to get higher education.</Ratkin_Kid.description>
+
+
+  <Ratkin_ServentChild.title>Ratkin servent child</Ratkin_ServentChild.title>
+  <Ratkin_ServentChild.titleShort>servent child</Ratkin_ServentChild.titleShort>
+  <Ratkin_ServentChild.description>[PAWN_nameDef] was born as a child of servant to a noble family. By tradition, [PAWN_pronoun] was to become a servant just like [PAWN_possessive] parents, but [PAWN_pronoun] ran away to chase [PAWN_possessive] freedom.</Ratkin_ServentChild.description>
+
+
+  <Ratkin_HumanAssistant.title>human's Ratkin assistant</Ratkin_HumanAssistant.title>
+  <Ratkin_HumanAssistant.titleShort>human's assistant</Ratkin_HumanAssistant.titleShort>
+  <Ratkin_HumanAssistant.description>[PAWN_nameDef] was adopted by a group of human scientists as a child and helped them as their assistant. However, an accident in the lab killed the scientists there, and [PAWN_nameDef] had to leave to find a new life for [PAWN_objective]self.</Ratkin_HumanAssistant.description>
+
+
+  <Ratkin_CityKid.title>Ratkin city kid</Ratkin_CityKid.title>
+  <Ratkin_CityKid.titleShort>city kid</Ratkin_CityKid.titleShort>
+  <Ratkin_CityKid.description>[PAWN_nameDef] was born in a bustling city. Being exposed to the many people and cultures in the city allowed [PAWN_objective] to more easily connect with others and understand them.</Ratkin_CityKid.description>
+
+
+  <Ratkin_SlaveKid.title>Ratkin slave kid</Ratkin_SlaveKid.title>
+  <Ratkin_SlaveKid.titleShort>slave kid</Ratkin_SlaveKid.titleShort>
+  <Ratkin_SlaveKid.description>[PAWN_nameDef] has had a slave mark for as long as [PAWN_pronoun] could remember. Perhaps [PAWN_possessive] parents were slaves too, but [PAWN_pronoun] will likely never know. One night, [PAWN_pronoun] found an opening and [PAWN_pronoun] ran away from [PAWN_possessive] slavers as fast as [PAWN_pronoun] could.</Ratkin_SlaveKid.description>
+
+
+  <Ratkin_LaboratoryRats.title>Ratkin specimen</Ratkin_LaboratoryRats.title>
+  <Ratkin_LaboratoryRats.titleShort>Ratkin specimen</Ratkin_LaboratoryRats.titleShort>
+  <Ratkin_LaboratoryRats.description>[PAWN_nameDef] was born in a human-run lab as an experiment in gene modification. One day, [PAWN_pronoun], genetically modified to be stronger and have better eyesight, saw [PAWN_possessive] opening and made a run for it.</Ratkin_LaboratoryRats.description>
+
+
+  <Ratkin_PettyTheft.title>Ratkin petty thief</Ratkin_PettyTheft.title>
+  <Ratkin_PettyTheft.titleShort>petty thief</Ratkin_PettyTheft.titleShort>
+  <Ratkin_PettyTheft.description>For [PAWN_nameDef], stealing was just different kind of borrowing. [PAWN_pronoun] was eventually caught during one of [PAWN_possessive] frequent snatches and was briefly incarcerated... until [PAWN_pronoun] escaped a week later.</Ratkin_PettyTheft.description>
+
+
+  <Ratkin_CaravanMerchant.title>Ratkin caravan merchant</Ratkin_CaravanMerchant.title>
+  <Ratkin_CaravanMerchant.titleShort>caravan merchant</Ratkin_CaravanMerchant.titleShort>
+  <Ratkin_CaravanMerchant.description>[PAWN_nameDef] led a caravan for merchants, moving from settlement to settlement. But a more recent attack on the caravan caused everyone to scatter, each one going their own separate ways.</Ratkin_CaravanMerchant.description>
+
+
+  <Ratkin_Wanderer.title>Ratkin wanderer</Ratkin_Wanderer.title>
+  <Ratkin_Wanderer.titleShort>wanderer</Ratkin_Wanderer.titleShort>
+  <Ratkin_Wanderer.description>[PAWN_nameDef] was a simple wanderer, going wherever the wind took [PAWN_objective]. For [PAWN_objective], a sedentary life was nothing more than a superficial fantasy.</Ratkin_Wanderer.description>
+
+
+  <Ratkin_Farmer.title>Ratkin farmer</Ratkin_Farmer.title>
+  <Ratkin_Farmer.titleShort>farmer</Ratkin_Farmer.titleShort>
+  <Ratkin_Farmer.description>[PAWN_nameDef] was a farmer. [PAWN_pronoun] started farming after inheriting some land from a distant relative and it became [PAWN_possessive] passion.</Ratkin_Farmer.description>
+
+
+  <Ratkin_Miner.title>Ratkin miner</Ratkin_Miner.title>
+  <Ratkin_Miner.titleShort>miner</Ratkin_Miner.titleShort>
+  <Ratkin_Miner.description>[PAWN_nameDef] was a miner with a talent for finding ores and rare gems. Despite [PAWN_possessive] innate talents, [PAWN_pronoun] always dreamed of leaving the mine tunnels and finding a new life of [PAWN_objective]self.</Ratkin_Miner.description>
+
+
+  <Ratkin_Hunter.title>Ratkin hunter</Ratkin_Hunter.title>
+  <Ratkin_Hunter.titleShort>hunter</Ratkin_Hunter.titleShort>
+  <Ratkin_Hunter.description>[PAWN_nameDef] was a hunter who ventured out into the woods to find prey. Unlike many other Ratkins, [PAWN_pronoun] had good eyesight, so [PAWN_pronoun] could see movement from far away and track distant animals.</Ratkin_Hunter.description>
+
+
+  <Ratkin_Shepherd.title>Ratkin shepherd</Ratkin_Shepherd.title>
+  <Ratkin_Shepherd.titleShort>shepherd</Ratkin_Shepherd.titleShort>
+  <Ratkin_Shepherd.description>[PAWN_nameDef] was in charge of a small piece of land filled with livestock. [PAWN_pronoun] loved every animal [PAWN_pronoun] took care of, but after a space battle, radioactive fuel and other debris fell all over [PAWN_possessive] land, rendering it uninhabitable.</Ratkin_Shepherd.description>
+
+
+  <Ratkin_Civil.title>Ratkin citizen</Ratkin_Civil.title>
+  <Ratkin_Civil.titleShort>citizen</Ratkin_Civil.titleShort>
+  <Ratkin_Civil.description>[PAWN_nameDef] was a citizen of a Ratkin kingdom. [PAWN_pronoun] had been leading a life of little note inside the kingdom.</Ratkin_Civil.description>
+
+
+  <Ratkin_Noble.title>Ratkin noble</Ratkin_Noble.title>
+  <Ratkin_Noble.titleShort>noble</Ratkin_Noble.titleShort>
+  <Ratkin_Noble.description>[PAWN_nameDef] is noble of the Ratkin kingdom. But [PAWN_pronoun] was forced to go into exile due to the political conspiracy and an attempted assassination, causing [PAWN_objective] to flee and search for asylum.</Ratkin_Noble.description>
+
+
+  <Ratkin_CityMerchant.title>Ratkin city merchant</Ratkin_CityMerchant.title>
+  <Ratkin_CityMerchant.titleShort>city merchant</Ratkin_CityMerchant.titleShort>
+  <Ratkin_CityMerchant.description>[PAWN_nameDef] was a talented artisan who sold many of [PAWN_possessive] creations as a merchant in various cities. [PAWN_pronoun] was skilled at creating many things, so [PAWN_pronoun] attracted a large customer base.</Ratkin_CityMerchant.description>
+
+
+  <Ratkin_Librarian.title>Ratkin librarian</Ratkin_Librarian.title>
+  <Ratkin_Librarian.titleShort>librarian</Ratkin_Librarian.titleShort>
+  <Ratkin_Librarian.description>[PAWN_nameDef] was a librarian in the Ratkin kingdom. [PAWN_possessive] time surrounded by literature has given [PAWN_objective] vast knowledge about many subjects, but the pristine environment has made [PAWN_objective] more adverse to the dust that comes with mining.</Ratkin_Librarian.description>
+
+
+  <Ratkin_Guardener.title>Ratkin guardener</Ratkin_Guardener.title>
+  <Ratkin_Guardener.titleShort>guardener</Ratkin_Guardener.titleShort>
+  <Ratkin_Guardener.description>[PAWN_nameDef] was a guardener, the protector of farmland and gardens. But during an assignment, [PAWN_pronoun] was separated from the rest of [PAWN_possessive] squad.</Ratkin_Guardener.description>
+
+
+  <Ratkin_Knight.title>Ratkin knight</Ratkin_Knight.title>
+  <Ratkin_Knight.titleShort>knight</Ratkin_Knight.titleShort>
+  <Ratkin_Knight.description>[PAWN_nameDef] was a knight of the Ratkin kingdom. [PAWN_pronoun] was a part of the force that protected the peace of the kingdom.</Ratkin_Knight.description>
+
+
+  <Ratkin_KnightCommander.title>Ratkin knight commander</Ratkin_KnightCommander.title>
+  <Ratkin_KnightCommander.titleShort>commander</Ratkin_KnightCommander.titleShort>
+  <Ratkin_KnightCommander.description>[PAWN_nameDef] was the chosen knight of the Ratkin Kingdom, leading the rest of [PAWN_possessive] squad as their commander. [PAWN_possessive] appointment to commander was in accordance with the tradition of Ratkin knights, as knight commanders must have some experience living in the countryside for a few years.</Ratkin_KnightCommander.description>
+
+
+  <Ratkin_Teacher.title>Ratkin teacher</Ratkin_Teacher.title>
+  <Ratkin_Teacher.titleShort>teacher</Ratkin_Teacher.titleShort>
+  <Ratkin_Teacher.description>[PAWN_nameDef] was one of a few teachers living on the outskirts of the Ratkin Kingdom. The village where [PAWN_pronoun] worked grew smaller and smaller as time went on, and eventually there was no one left for [PAWN_nameDef] to teach. So just like everyone else, [PAWN_pronoun] packed up [PAWN_possessive] things and left the shrinking village to find a new home.</Ratkin_Teacher.description>
+
+
+  <Ratkin_Blacksmith.title>Ratkin blacksmith</Ratkin_Blacksmith.title>
+  <Ratkin_Blacksmith.titleShort>blacksmith</Ratkin_Blacksmith.titleShort>
+  <Ratkin_Blacksmith.description>[PAWN_nameDef] was a master at smithing, providing to tools to citizens and weapons to knights and adventuruers. However, [PAWN_pronoun] wanted to hone [PAWN_possessive] craft even more, and left in search of even stronger materials.</Ratkin_Blacksmith.description>
+
+
+  <Ratkin_Thief.title>Ratkin thief</Ratkin_Thief.title>
+  <Ratkin_Thief.titleShort>thief</Ratkin_Thief.titleShort>
+  <Ratkin_Thief.description>[PAWN_nameDef] was a thief, using [PAWN_possessive] small size and nimble steps to evade capture. [PAWN_pronoun] repeatedly moved from city to city to avoid the wanted signs.</Ratkin_Thief.description>
+
+
+  <Ratkin_Ambassador.title>Ratkin ambassador</Ratkin_Ambassador.title>
+  <Ratkin_Ambassador.titleShort>ambassador</Ratkin_Ambassador.titleShort>
+  <Ratkin_Ambassador.description>[PAWN_nameDef] was one of the Ratkin Kingdom's diplomat. While [PAWN_pronoun] was visiting a different kingdom, fighting broke out between the two and [PAWN_nameDef] was caught in hostile territory. [PAWN_pronoun] was soon exiled from the foreign kingdom with few supplies, made to wander back to [PAWN_possessive] home on [PAWN_possessive] own.</Ratkin_Ambassador.description>
+
+
+  <Ratkin_Soldier.title>Ratkin soldier</Ratkin_Soldier.title>
+  <Ratkin_Soldier.titleShort>soldier</Ratkin_Soldier.titleShort>
+  <Ratkin_Soldier.description>[PAWN_nameDef] trained to become a soldier in a human-run city. [PAWN_pronoun] was trained with both human-style and Ratkin-style weapons, granting [PAWN_objective] more proficiency than other Ratkins. Later, [PAWN_pronoun] was abandoned on a mission after [PAWN_possessive] platoon retreated from a battle, so [PAWN_pronoun] has had to make a new life for [PAWN_objective]self.</Ratkin_Soldier.description>
+
+
+  <Ratkin_Explorer.title>Ratkin explorer</Ratkin_Explorer.title>
+  <Ratkin_Explorer.titleShort>explorer</Ratkin_Explorer.titleShort>
+  <Ratkin_Explorer.description>[PAWN_nameDef] was a traveller by nature, [PAWN_possessive] curiosity driving [PAWN_objective] to become an explorer. [PAWN_pronoun] dreams of one day exploring the entire galaxy.</Ratkin_Explorer.description>
+
+
+  <Ratkin_Chef.title>Ratkin chef</Ratkin_Chef.title>
+  <Ratkin_Chef.titleShort>chef</Ratkin_Chef.titleShort>
+  <Ratkin_Chef.description>[PAWN_nameDef] was a well-known chef who desired to learn how to make the dishes of every culture [PAWN_pronoun] came across. This desire has led [PAWN_objective] on a journey to visit as many settlements and nations as [PAWN_pronoun] can.</Ratkin_Chef.description>
+
+
+  <Ratkin_HandMaiden.title>Ratkin servant</Ratkin_HandMaiden.title>
+  <Ratkin_Shepherd.titleShort>servant</Ratkin_Shepherd.titleShort>
+  <Ratkin_HandMaiden.description>[PAWN_nameDef] was the servant of nobility, attending to [PAWN_possessive] master's every need. It was thankless work, but [PAWN_pronoun] managed to make enough money to one day leave and follow [PAWN_possessive] true passions.</Ratkin_HandMaiden.description>
+
+
+  <Ratkin_Shooter.title>Ratkin shooter</Ratkin_Shooter.title>
+  <Ratkin_Shooter.titleShort>shooter</Ratkin_Shooter.titleShort>
+  <Ratkin_Shooter.description>[PAWN_nameDef], unlike many other Ratkins, has fantastic eyesight. Realizing this advantage, [PAWN_pronoun] volunteered for the military and went on to become one of their best sharpshooters.</Ratkin_Shooter.description>
+
+
+  <Ratkin_Doctor.title>Ratkin doctor</Ratkin_Doctor.title>
+  <Ratkin_Doctor.titleShort>doctor</Ratkin_Doctor.titleShort>
+  <Ratkin_Doctor.description>[PAWN_nameDef] was a doctor who operated in the heart of the capital, but [PAWN_pronoun] was banished to the outskirts because [PAWN_pronoun] could not save the life of a nobleman. [PAWN_pronoun] became a traveling doctor, saving lives in the rural Ratkin settlements to prove that [PAWN_pronoun] was still a doctor of renown skill.</Ratkin_Doctor.description>
+
+
+  <Ratkin_ArmySurgeon.title>Ratkin army surgeon</Ratkin_ArmySurgeon.title>
+  <Ratkin_ArmySurgeon.titleShort>army surgeon</Ratkin_ArmySurgeon.titleShort>
+  <Ratkin_ArmySurgeon.description>[PAWN_nameDef] was a medic who saved Ratkins during and after battle. [PAWN_pronoun] attempted to save everyone that [PAWN_pronoun] could, but watching soldier after soldier die soon became too much for [PAWN_nameDef] and [PAWN_pronoun] left once [PAWN_pronoun] realized that nothing would change.</Ratkin_ArmySurgeon.description>
+
+
+  <Ratkin_ConstructionWorker.title>Ratkin construction worker</Ratkin_ConstructionWorker.title>
+  <Ratkin_ConstructionWorker.titleShort>construction worker</Ratkin_ConstructionWorker.titleShort>
+  <Ratkin_ConstructionWorker.description>[PAWN_nameDef] was a laborer working on various construction sites. [PAWN_pronoun] was mainly employed in building underground tunnels, but [PAWN_pronoun] never learned what exactly they were for.</Ratkin_ConstructionWorker.description>
+
+
+  <Ratkin_Rich.title>Ratkin scam artist</Ratkin_Rich.title>
+  <Ratkin_Rich.titleShort>scam artist</Ratkin_Rich.titleShort>
+  <Ratkin_Rich.description>Backdoor deals and hustling the gullible was [PAWN_nameDef]'s talent and passion. [PAWN_possessive] silver tongue could deceive anyone into thinking [PAWN_possessive] intentions were benevolent. But [PAWN_possessive] house of cards soon came crumbling down, and [PAWN_nameDef] had to pack up and run away..</Ratkin_Rich.description>
+
+
+  <Ratkin_Sister.title>Ratkin priest</Ratkin_Sister.title>
+  <Ratkin_Shepherd.titleShort>priest</Ratkin_Shepherd.titleShort>
+  <Ratkin_Sister.description>[PAWN_nameDef] was a member of the church, charged with taking care of ancestral rites or religious affairs in Ratkin. [PAWN_pronoun] was attacked while to an important ceremony and was barely able to escape with [PAWN_possessive] life.</Ratkin_Sister.description>
+
+
+  <Ratkin_Butcher.title>Ratkin butcher</Ratkin_Butcher.title>
+  <Ratkin_Butcher.titleShort>butcher</Ratkin_Butcher.titleShort>
+  <Ratkin_Butcher.description>[PAWN_nameDef] knew about to carve up an animal to produce the finest cuts and the least amount of waste. Hunters would bring their kills to [PAWN_objective] to butcher.</Ratkin_Butcher.description>
+
+
+  <Ratkin_CityMaid.title>Ratkin city housekeeper</Ratkin_CityMaid.title>
+  <Ratkin_Shepherd.titleShort>city housekeeper</Ratkin_Shepherd.titleShort>
+  <Ratkin_CityMaid.description>[PAWN_nameDef] was a housekeeper who was hired to clean various houses and office buildings. Humans had a tendency to only hire good-looking Ratkins to be their cleaners, and [PAWN_pronoun] just so happened to be one of them.</Ratkin_CityMaid.description>
+
+
+  <Ratkin_Idol.title>Ratkin idol</Ratkin_Idol.title>
+  <Ratkin_Idol.titleShort>idol</Ratkin_Idol.titleShort>
+  <Ratkin_Idol.description>[PAWN_nameDef]'s good looks and natural charisma allowed [PAWN_objective] to rise to stardom. [PAWN_pronoun] was well-known throughout the Ratkin Kingdom as an entertainer and many came to see [PAWN_objective] perform. However, an unfortunate accident had left [PAWN_objective] stranded, with no way to call for help.</Ratkin_Idol.description>
+
+
+  <Ratkin_Murderer.title>Ratkin murderer</Ratkin_Murderer.title>
+  <Ratkin_Murderer.titleShort>murderer</Ratkin_Murderer.titleShort>
+  <Ratkin_Murderer.description>The cramped, dirty city had driven [PAWN_nameDef] to insanity, and [PAWN_pronoun] discovered an enjoyment for causing others pain. [PAWN_pronoun] used [PAWN_possessive] cute appearance and short stature to lower [PAWN_possessive] victims' guards before going in for the kill. [PAWN_nameDef] was always quick to leave the crime scene, never leaving enough evidence to track [PAWN_objective] down.</Ratkin_Murderer.description>
+
+
+  <Ratkin_Assistant.title>Ratkin assistant</Ratkin_Assistant.title>
+  <Ratkin_Assistant.titleShort>assistant</Ratkin_Assistant.titleShort>
+  <Ratkin_Assistant.description>As a research assistant, [PAWN_nameDef] helped with various research projects, from small to big. While [PAWN_pronoun] wasn't technically a researcher, [PAWN_objective]self, [PAWN_pronoun] learned as much as [PAWN_pronoun] from working with those talented researchers.</Ratkin_Assistant.description>
+
+
+  <Ratkin_Scientist.title>Ratkin scientist</Ratkin_Scientist.title>
+  <Ratkin_Scientist.titleShort>scientist</Ratkin_Scientist.titleShort>
+  <Ratkin_Scientist.description>[PAWN_nameDef] spent many years studying and researching alongside [PAWN_possessive] peers. But [PAWN_pronoun] often worked [PAWN_objective]self too hard, and [PAWN_pronoun] became physically weak and [PAWN_possessive] eyesight worsened.</Ratkin_Scientist.description>
+
+
+  <Ratkin_Engineer.title>Ratkin engineer</Ratkin_Engineer.title>
+  <Ratkin_Engineer.titleShort>engineer</Ratkin_Engineer.titleShort>
+  <Ratkin_Engineer.description>[PAWN_nameDef] was an engineer who would design various machines and robots. [PAWN_pronoun] used his talent to invent a new kind of mechanoid, but [PAWN_pronoun] was exiled to the kingdom's outskirts when the mechanoid prototype went rogue.</Ratkin_Engineer.description>
+
+
+  <Ratkin_Agriculturist.title>Ratkin agriculturist</Ratkin_Agriculturist.title>
+  <Ratkin_Agriculturist.titleShort>agriculturist</Ratkin_Agriculturist.titleShort>
+  <Ratkin_Agriculturist.description>[PAWN_nameDef] was an agriculturist who went to large farming communities to help improve their irrigation systems and other agricultural techniques. [PAWN_pronoun] hopes that [PAWN_pronoun] can one day go back to [PAWN_possessive] small village and help them as well.</Ratkin_Agriculturist.description>
+
+
+  <Ratkin_RatkinHunter.title>Ratkin slave-hunter</Ratkin_RatkinHunter.title>
+  <Ratkin_RatkinHunter.titleShort>slave-hunter</Ratkin_RatkinHunter.titleShort>
+  <Ratkin_RatkinHunter.description>Hired by slavers to track down [PAWN_possessive] own kind, [PAWN_nameDef] was a tracker who hunted down escaped Ratkin slaves. But after watching crying families being torn apart and Ratkins being brutalized one too many times, [PAWN_nameDef] decided that [PAWN_pronoun] would fight the system [PAWN_pronoun] once worked for and help escaped Ratkin slaves.</Ratkin_RatkinHunter.description>
+
+
+  <Ratkin_Subject.title>Ratkin subject</Ratkin_Subject.title>
+  <Ratkin_Subject.titleShort>subject</Ratkin_Subject.titleShort>
+  <Ratkin_Subject.description>[PAWN_nameDef] is the subject of human-led experiments on Ratkins. [PAWN_pronoun] had lost count of how many experiments [PAWN_pronoun] had endured, but one day, when a freak lab accident caught every scientists' attention, [PAWN_pronoun] made a mad dash for freedom. [PAWN_nameDef] has never looked back.</Ratkin_Subject.description>
+
+
+  <Ratkin_Vagabond.title>Ratkin vagabond</Ratkin_Vagabond.title>
+  <Ratkin_Vagabond.titleShort>vagabond</Ratkin_Vagabond.titleShort>
+  <Ratkin_Vagabond.description>[PAWN_nameDef] has been wandering aimlessly from place to place for many years. [PAWN_pronoun] never really specifies what [PAWN_pronoun] did during those years of wandering, but the wisdom [PAWN_pronoun] gained during that time seems to be useful enough.</Ratkin_Vagabond.description>
+
+
+  <Ratkin_Demoman.title>Ratkin demoman</Ratkin_Demoman.title>
+  <Ratkin_Demoman.titleShort>demoman</Ratkin_Demoman.titleShort>
+  <Ratkin_Demoman.description>Unlike other Ratkins, [PAWN_nameDef] is obsessed with explosives and bombs. Recognizing [PAWN_possessive] dangerous potential, [PAWN_possessive] commanders sent [PAWN_objective] on many missions deemed "suicidal". But [PAWN_nameDef] always made it back without a scratch.</Ratkin_Demoman.description>
+
+
+</LanguageData>
