@@ -3,28 +3,33 @@
 	<v1.3>
         <li>1.3</li>
 		<li>Common</li>
-		<li IfModNotActive="imranfish.xmlextensions">Default</li>
-		<li IfModActive="imranfish.xmlextensions">Settings</li>
-		<li IfModActive="Rin.RatkinApparel">Apparel+</li>
-		<li IfModActive="bbb.ratkinweapon.morefailure">Weapons+</li>
-		<li IfModActive="AhnDemi.racesleepfaceaddon2">SleepyAddon</li>
+		<li IfModNotActive="imranfish.xmlextensions">Compatibility/Default</li>
+		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
+		<li IfModActive="Rin.RatkinApparel">Compatibility/Apparel+</li>
+		<li IfModActive="gomi.RKPanties">Compatibility/NewRatkinPanties</li>
+		<li IfModActive="bbb.ratkinweapon.morefailure">Compatibility/Weapons+</li>
+		<li IfModActive="AhnDemi.racesleepfaceaddon2">Compatibility/SleepyAddon</li>
     </v1.3>
 	<v1.4>
         <li>1.4</li>
 		<li>Common</li>
-		<li IfModNotActive="imranfish.xmlextensions">Default</li>
-		<li IfModActive="imranfish.xmlextensions">Settings</li>
-		<li IfModActive="Rin.RatkinApparel">Apparel+</li>
-		<li IfModActive="bbb.ratkinweapon.morefailure">Weapons+</li>
-		<li IfModActive="AhnDemi.racesleepfaceaddon2">SleepyAddon</li>
+		<li IfModNotActive="imranfish.xmlextensions">Compatibility/Default</li>
+		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
+		<li IfModActive="Rin.RatkinApparel">Compatibility/Apparel+</li>
+		<li IfModActive="EoralMilk.RatkinMoustate">Compatibility/Moustate</li>
+		<li IfModActive="gomi.RKPanties">Compatibility/NewRatkinPanties</li>
+		<li IfModActive="fxz.ratkinvehicle.morefailure">Compatibility/Vehicles+</li>
+		<li IfModActive="bbb.ratkinweapon.morefailure">Compatibility/Weapons+</li>
     </v1.4>
 	<v1.5>
         <li>1.5</li>
 		<li>Common</li>
-		<li IfModNotActive="imranfish.xmlextensions">Default</li>
-		<li IfModActive="imranfish.xmlextensions">Settings</li>
-		<li IfModActive="Rin.RatkinApparel">Apparel+</li>
-		<li IfModActive="bbb.ratkinweapon.morefailure">Weapons+</li>
-		<li IfModActive="AhnDemi.racesleepfaceaddon2">SleepyAddon</li>
+		<li IfModNotActive="imranfish.xmlextensions">Compatibility/Default</li>
+		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
+		<li IfModActive="Rin.RatkinApparel">Compatibility/Apparel+</li>
+		<li IfModActive="EoralMilk.RatkinMoustate">Compatibility/Moustate</li>
+		<li IfModActive="gomi.RKPanties">Compatibility/NewRatkinPanties</li>
+		<li IfModActive="fxz.ratkinvehicle.morefailure">Compatibility/Vehicles+</li>
+		<li IfModActive="bbb.ratkinweapon.morefailure">Compatibility/Weapons+</li>
     </v1.5>
 </loadFolders>
