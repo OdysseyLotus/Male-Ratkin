@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/HairDef[defName="RK_Short01"]/hairGender</xpath>
+		<value>
+			<styleGender>Any</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/HairDef[defName="RK_Short02"]/hairGender</xpath>
+		<value>
+			<styleGender>Any</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/HairDef[defName="RK_Wolftail"]/hairGender</xpath>
+		<value>
+			<styleGender>Female</styleGender>
+		</value>
+	</Operation>
+	
+	<!--<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/HairDef[defName="RK_Braided"]/hairGender</xpath>
+		<value>
+			<styleGender>FemaleUsually</styleGender>
+		</value>
+	</Operation>-->
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/HairDef[defName="RK_Arona"]/hairGender</xpath>
+		<value>
+			<styleGender>Any</styleGender>
+		</value>
+	</Operation>
+
+
+</Patch>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Female_RatkinNormal</defName>
+		<graphicPath>Ratkin/Heads/Female_RatkinNormal</graphicPath>
+		<gender>Female</gender>
+	</HeadTypeDef>
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Female_RatkinWide</defName>
+		<graphicPath>Ratkin/Heads/Female_RatkinWide</graphicPath>
+		<gender>Female</gender>
+	</HeadTypeDef>
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Female_RatkinPointy</defName>
+		<graphicPath>Ratkin/Heads/Female_RatkinPointy</graphicPath>
+		<gender>Female</gender>
+	</HeadTypeDef>
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Female_RatkinNarrow</defName>
+		<graphicPath>Ratkin/Heads/Female_RatkinNarrow</graphicPath>
+		<gender>Female</gender>
+	</HeadTypeDef>
+	
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Male_RatkinNormal</defName>
+		<graphicPath>Ratkin/Heads/Male_RatkinNormal</graphicPath>
+		<gender>Male</gender>
+	</HeadTypeDef>
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Male_RatkinWide</defName>
+		<graphicPath>Ratkin/Heads/Male_RatkinWide</graphicPath>
+		<gender>Male</gender>
+	</HeadTypeDef>
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Male_RatkinPointy</defName>
+		<graphicPath>Ratkin/Heads/Male_RatkinPointy</graphicPath>
+		<gender>Male</gender>
+	</HeadTypeDef>
+	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Male_RatkinNarrow</defName>
+		<graphicPath>Ratkin/Heads/Male_RatkinNarrow</graphicPath>
+		<gender>Male</gender>
+	</HeadTypeDef>
+	
+</Defs>

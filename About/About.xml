@@ -22,40 +22,26 @@ And since I included it, I might as well talk about the English patch. I went th
 This mod comes with innate compatibility with Ratkin Apparel+. If you use that mod, then male versions of those outfits should be automatically added.
 
 If there are any other alien races you want me to add males to, let me know and I might devote some time to creating those assets and patches as well.</description>
-	<!--<modDependencies>
+	<modDependencies>
 		<li>
 			<packageId>Solaris.RatkinRaceMod</packageId>
 			<displayName>NewRatkinPlus</displayName>
 			<steamWorkshopUrl>steamcommunity.com/sharedfiles/filedetails/?id=1578693166</steamWorkshopUrl>
 		</li>
-	</modDependencies>-->
-	<modDependenciesByVersion>
-		<v1.3>
-			<li>
-				<packageId>Solaris.RatkinRaceMod</packageId>
-				<displayName>NewRatkinPlus</displayName>
-				<steamWorkshopUrl>steamcommunity.com/sharedfiles/filedetails/?id=1578693166</steamWorkshopUrl>
-			</li>
-		</v1.3>
-		<v1.4>
-			<li>
-				<packageId>Solaris.RatkinRaceMod</packageId>
-				<displayName>NewRatkinPlus</displayName>
-				<steamWorkshopUrl>steamcommunity.com/sharedfiles/filedetails/?id=1578693166</steamWorkshopUrl>
-			</li>
-		</v1.4>
-		<v1.5>
-			<li>
-				<packageId>fxz.Solaris.RatkinRaceMod</packageId>
-				<displayName>NewRatkinPlus[1.5]</displayName>
-				<steamWorkshopUrl>steamcommunity.com/sharedfiles/filedetails/?id=3221366157</steamWorkshopUrl>
-			</li>
-		</v1.5>
-	</modDependenciesByVersion>
+	</modDependencies>
 	<loadAfter>
 		<li>Solaris.RatkinRaceMod</li>
-		<li>Rin.RatkinApparel</li>
 		<li>hourai.ratkinglasses</li>
+		<li>fxz.ratkinanomaly.update</li>
+		<li>PPONN.RatkinApparel</li>
+		<li>Rin.RatkinApparel</li>
 		<li>AhnDemi.racesleepfaceaddon2</li>
+		<li>MoManaCha.RatkinBodyRetexture</li>
+		<li>EoralMilk.RatkinGeneExpanded</li>
+		<li>EoralMilk.RatkinMoustate</li>
+		<li>gomi.RKPanties</li>
+		<li>OARK.RatkinFaction.OberoniaAurea</li>
+		<li>fxz.ratkinvehicle.morefailure</li>
+		<li>bbb.ratkinweapon.morefailure</li>
 	</loadAfter>
 </ModMetaData>
