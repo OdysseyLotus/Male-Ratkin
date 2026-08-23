@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<HairDef>
+		<defName>RK_Allback</defName>
+		<label>Slicked Back</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/allback</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Choppy</defName>
+		<label>Choppy</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hair/choppy</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Curly</defName>
+		<label>Curly</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hair/curly</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>RK_Dandy</defName>
+		<label>Dandy</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/dandy</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Fluffy</defName>
+		<label>Fluffy</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hair/fluffy</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_FluffyA</defName>
+		<label>FluffyA</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/fluffyA</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Fuzzy</defName>
+		<label>Fuzzy</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/fuzzy</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Medium</defName>
+		<label>Medium</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hair/medium</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Medium_Acc</defName>
+		<label>Medium (Accessory)</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hair/medium_acc</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_MediumA</defName>
+		<label>MediumA</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hair/mediumA</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Parted</defName>
+		<label>Parted</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/parted</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_PartedA</defName>
+		<label>PartedA</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/partedA</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_PartedB</defName>
+		<label>PartedB</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hair/partedB</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>RK_PonyB</defName>
+		<label>PonytailB</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hair/ponyB</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>RK_PonyC</defName>
+		<label>PonytailC</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hair/ponyC</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_PonyD</defName>
+		<label>PonytailD</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hair/ponyD</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_Spiky</defName>
+		<label>Spiky</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/spiky</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>RK_SpikyA</defName>
+		<label>SpikyA</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/spikyA</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>RK_wolf</defName>
+		<label>Wolf</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hair/wolf</texPath>
+		<category>RK_Style</category>
+		<styleTags>
+			<li>RK_Style</li>
+		</styleTags>
+	</HairDef>
+	
+</Defs>

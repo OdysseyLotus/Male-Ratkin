@@ -18,4 +18,22 @@
 		<li IfModActive="bbb.ratkinweapon.morefailure">Weapons+</li>
 		<li IfModActive="AhnDemi.racesleepfaceaddon2">SleepyAddon</li>
     </v1.4>
+	<v1.5>
+        <li>1.5</li>
+		<li>Common</li>
+		<li IfModActive="imranfish.xmlextensions">Settings</li>
+		<li IfModNotActive="imranfish.xmlextensions">Default</li>
+		<li IfModActive="Rin.RatkinApparel">Apparel+</li>
+		<li IfModActive="bbb.ratkinweapon.morefailure">Weapons+</li>
+		<li IfModActive="AhnDemi.racesleepfaceaddon2">SleepyAddon</li>
+    </v1.5>
+	<v1.6>
+        <li>1.6</li>
+		<li>Common</li>
+		<li IfModActive="imranfish.xmlextensions">Settings</li>
+		<li IfModNotActive="imranfish.xmlextensions">Default</li>
+		<li IfModActive="Rin.RatkinApparel">Apparel+</li>
+		<li IfModActive="bbb.ratkinweapon.morefailure">Weapons+</li>
+		<li IfModActive="AhnDemi.racesleepfaceaddon2">SleepyAddon</li>
+    </v1.6>
 </loadFolders>

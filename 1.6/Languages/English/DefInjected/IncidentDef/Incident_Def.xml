@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RatkinTunnel_Guerrilla.label>tunnel invasion</RatkinTunnel_Guerrilla.label>
+  <RatkinTunnel_Guerrilla.letterLabel>Tunnel invasion</RatkinTunnel_Guerrilla.letterLabel>
+  <RatkinTunnel_Guerrilla.letterText>Several seismic tremors were detected.\n\nA specialized guerrilla Ratkin unit will soon tunnel up from the ground. Take the necessary steps to prepare for the invasion.</RatkinTunnel_Guerrilla.letterText>
+
+  <RatkinFollowUpTroops.label>follow-up unit</RatkinFollowUpTroops.label>
+  <RatkinFollowUpTroops.letterLabel>Follow-up unit</RatkinFollowUpTroops.letterLabel>
+  <RatkinFollowUpTroops.letterText>After the last raid, a follow-up unit was sent as reinforcement. An EMP explosion can be heard outside.\n\nPrepare defenses against the enemy reinforcements.</RatkinFollowUpTroops.letterText>
+
+</LanguageData>
