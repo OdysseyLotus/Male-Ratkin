@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/graphicPaths/body</xpath>
+		<value>
+			<body>Ratkin/Body/</body>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/generalSettings/alienPartGenerator/headTypes</xpath>
+		<value>
+			<headTypes>
+				<li>Female_RatkinNormal</li>
+				<li>Female_RatkinWide</li>
+				<li>Female_RatkinPointy</li>
+				<li>Female_RatkinNarrow</li>
+				
+				<li>Male_RatkinNormal</li>
+				<li>Male_RatkinWide</li>
+				<li>Male_RatkinPointy</li>
+				<li>Male_RatkinNarrow</li>
+			</headTypes>
+		</value>
+	</Operation>
+	
+</Patch>

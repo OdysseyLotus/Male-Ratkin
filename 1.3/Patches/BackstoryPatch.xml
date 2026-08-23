@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<!-- Alright, slightly pissed, wrote out this whole xml patch and then Notepad++ updated, which caused this patch to combine two different xmls I had opened up to combine and get rid of everything I worked on.
+		 Anyway, once again, gotta go through each and every backstory, since instead of having the male and female bodytypes defined in the abstract since there is literally only one bodytype in the base mod, the creator instead defined it in each and every backstory def, making this process much, much longer than it needs to be.
+		 Ugh, it's fine, it's whatever, I just gotta get through this... and then fix the English because it is bothering me waaaaay too much to leave alone.-->
+		 
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[@Name = "BaseRatkinBackStory"]</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[@Name = "BaseRatkinBackStory"]</xpath>
+		<value>
+			<bodyTypeFemale>Thin</bodyTypeFemale>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_WildChild"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_WildChild"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_LandRat"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_LandRat"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CountryKid"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CountryKid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ShepherdBoy"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ShepherdBoy"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Orphan"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Orphan"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Student"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_LittleLibrarian"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_GoldenSpoon"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Bastard"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Bastard"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Successor"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_GuardenerStudent"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_GuardenerStudent"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ChefStudent"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ChefStudent"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_RomanyKid"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_RomanyKid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_MerchantKid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_OfficerChild"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_OfficerChild"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Kid"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Kid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ServentChild"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ServentChild"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_HumanAssistant"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CityKid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_SlaveKid"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_SlaveKid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_LaboratoryRats"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_LaboratoryRats"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_PettyTheft"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_PettyTheft"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CaravanMerchant"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CaravanMerchant"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Wanderer"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Wanderer"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Farmer"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Farmer"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Miner"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Miner"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Hunter"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Hunter"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Shepherd"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Shepherd"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Shepherd"]</xpath>
+		<value>
+			<titleFemale>Ratkin shepherdess</titleFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Shepherd"]</xpath>
+		<value>
+			<titleShortFemale>shepherdess</titleShortFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Civil"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Civil"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Noble"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Noble"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CityMerchant"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CityMerchant"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Librarian"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Librarian"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Guardener"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Guardener"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Knight"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Knight"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_KnightCommander"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_KnightCommander"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Teacher"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Teacher"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Blacksmith"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Blacksmith"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Thief"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Thief"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Ambassador"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Ambassador"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Soldier"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Soldier"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Explorer"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Explorer"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Chef"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Chef"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_HandMaiden"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_HandMaiden"]</xpath>
+		<value>
+			<titleFemale>Ratkin handmaiden</titleFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_HandMaiden"]</xpath>
+		<value>
+			<titleShortFemale>handmaiden</titleShortFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Shooter"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Doctor"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Doctor"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ArmySurgeon"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ArmySurgeon"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ConstructionWorker"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_ConstructionWorker"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Rich"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Rich"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Sister"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Sister"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Sister"]</xpath>
+		<value>
+			<titleFemale>Ratkin priestess</titleFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Sister"]</xpath>
+		<value>
+			<titleShortFemale>priestess</titleShortFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Butcher"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Butcher"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CityMaid"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CityMaid"]</xpath>
+		<value>
+			<titleFemale>Ratkin city maid</titleFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_CityMaid"]</xpath>
+		<value>
+			<titleShortFemale>city maid</titleShortFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Idol"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Murderer"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Murderer"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Assistant"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Scientist"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Engineer"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Engineer"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Agriculturist"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Agriculturist"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_RatkinHunter"]/bodyTypeMale</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_RatkinHunter"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Subject"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Subject"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Vagabond"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Vagabond"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Demoman"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.BackstoryDef[defName="Ratkin_Demoman"]/bodyTypeFemale</xpath>
+	</Operation>
+
+</Patch>

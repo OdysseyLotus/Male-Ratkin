@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <AbilityPrayerServiceCooldown>The next prayer service can be held in</AbilityPrayerServiceCooldown>
-  <MessagePrayerServiceStart>{PAWN_labelShort} is hosting a prayer service.</MessagePrayerServiceStart>
-  <MessagePrayerServiceAborted>The prayer service was cancelled.</MessagePrayerServiceAborted>
-  <MessagePrayerServiceEnded>The prayer service has ended.</MessagePrayerServiceEnded>
-</LanguageData>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/HairDef[@Name="RatkinExoticHairBase"]/hairGender</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_Mina"]</xpath>
+		<value>
+			<styleGender>Any</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_ShuangJi"]</xpath>
+		<value>
+			<styleGender>Any</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_YunBin"]</xpath>
+		<value>
+			<styleGender>Any</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_ZongJiao"]</xpath>
+		<value>
+			<styleGender>FemaleUsually</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_ChuiJi"]</xpath>
+		<value>
+			<styleGender>FemaleUsually</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_ShuangHuanJi"]</xpath>
+		<value>
+			<styleGender>Female</styleGender>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/HairDef[defName="RK_Souji"]</xpath>
+		<value>
+			<styleGender>Female</styleGender>
+		</value>
+	</Operation>
+
+
+</Patch>

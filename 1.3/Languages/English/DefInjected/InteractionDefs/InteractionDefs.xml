@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <RK_PriestPray.label>pray</RK_PriestPray.label>
-  <RK_PriestPray.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [prayed] [RECIPIENT_nameDef].</RK_PriestPray.logRulesInitiator.rulesStrings.0>
-  <RK_PriestPray.logRulesInitiator.rulesStrings.1>prayed(p=3)->blessed</RK_PriestPray.logRulesInitiator.rulesStrings.1>
-  <RK_PriestPray.logRulesInitiator.rulesStrings.1>prayed(p=2)->prayed for</RK_PriestPray.logRulesInitiator.rulesStrings.2>
-  <RK_PriestPray.logRulesInitiator.rulesStrings.2>prayed->wished the best for</RK_PriestPray.logRulesInitiator.rulesStrings.3>
-</LanguageData>

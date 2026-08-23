@@ -1,0 +1,1759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[@Name = "BaseOberoniaAureaRatkinBackStory"]</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[@Name = "BaseOberoniaAureaRatkinBackStory"]</xpath>
+		<value>
+			<bodyTypeFemale>Thin</bodyTypeFemale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[@Name = "BaseOberoniaAureaRatkinBackStory_B"]</xpath>
+		<value>
+			<bodyTypeMale>Male</bodyTypeMale>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[@Name = "BaseOberoniaAureaRatkinBackStory_B"]</xpath>
+		<value>
+			<bodyTypeFemale>Thin</bodyTypeFemale>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_WoBianBuDongLeAAAAAAAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_WoBianBuDongLeAAAAAAAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Guizuertong"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Guizuertong"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GuizuertongB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GuizuertongB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Gongtingertong"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Gongtingertong"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongCG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongDG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEFF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEFF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongGA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongGB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongGC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongGC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongGD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongGD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongED"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongED"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongFA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongFA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongFB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongFB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_GongtingertongEC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAAAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAAAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianABA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianABA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianABB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianABC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianABD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianABD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_CivilianAAAAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_Wimp"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_A"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_AA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_AA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_AAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_AAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_AAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_AAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_B"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_B"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_C"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_C"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_D"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_D"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_E"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_E"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_F"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_F"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_A"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_A"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_Court_Member"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_Elite_Court_Member"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Noble_Elite_Court_Member"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_B"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_B"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_C"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_C"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_B"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_B"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_C"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_C"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_D"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_D"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_E"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_E"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_F"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_F"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_G"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_G"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_H"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_H"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_I"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_J"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_J"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_K"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Technical_Court_Member_K"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_D"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Court_Member_D"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_B"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_C"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_C"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_D"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_D"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_E"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_E"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_F"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_F"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_G"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_G"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_AAAAC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_BG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_CG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DEE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DEE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DEAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DEAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DGAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_DGAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EAAAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EAAAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_ABF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_ABF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_ABE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_ABE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_Civilian_EC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	
+	
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_A"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_A"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_B"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_B"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_C"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_C"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_D"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_D"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_E"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_E"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_F"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_F"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_G"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_G"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_CG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_DG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ED"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ED"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_EG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_FG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_GG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AAG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ABG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ACG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_ADG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AED"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AED"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AEG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AFF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGC"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_AGG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAA"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAB"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAC"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAD"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAD"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAE"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAE"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAF"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAF"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAG"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BAG"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BBA"]/bodyTypeFemale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BBB"]/bodyTypeMale</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/AlienRace.AlienBackstoryDef[defName="OA_RK_NEW_Backstory_BBB"]/bodyTypeFemale</xpath>
+	</Operation>
+
+</Patch>
