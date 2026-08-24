@@ -15,19 +15,47 @@
 		</value>
 	</Operation>
 	
-	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/graphicPaths/body/bodytypeGraphics</xpath>
-		<value>
-			<Male>Things/Ratkin/Body/Male/Naked_Male</Male>
-		</value>
-	</Operation>
-	
-	<Operation Class="PatchOperationRemove">
+	<!--<Operation Class="PatchOperationRemove">
 		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/graphicPaths/body/path</xpath>
+	</Operation>-->
+	
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Ratkin Body Retexture</li>
+			<li>Crazy Copepod`s Ratkin Body Retextured</li>
+		</mods>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/graphicPaths/body/bodytypeGraphics</xpath>
+			<value>
+				<Male>Things/Ratkin/Body/Male/Naked_Male</Male>
+			</value>
+		</nomatch>
 	</Operation>
 	
-	<Operation Class="PatchOperationRemove">
-		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/graphicPaths/apparel/bodyTypeFallback</xpath>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Ratkin Body Retexture</li>
+			<li>Crazy Copepod`s Ratkin Body Retextured</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>Defs/AlienRace.ThingDef_AlienRace[defName="Ratkin"]/alienRace/graphicPaths/body</xpath>
+			<value>
+				<body>
+					<path>Ratkin/Body/Naked_Thin</path>
+					<bodytypeGraphics>
+						<Male>Ratkin/Body/Naked_Male</Male>
+						<Thin>Ratkin/Body/Naked_Thin</Thin>
+						<Child MayRequire="Ludeon.RimWorld.Biotech">Ratkin/Body/Naked_Child</Child>
+						<Baby MayRequire="Ludeon.RimWorld.Biotech">Ratkin/Body/Naked_Baby</Baby>
+					</bodytypeGraphics>
+					<ageGraphics>
+						<HumanlikePreTeenager MayRequire="Ludeon.RimWorld.Biotech">Ratkin/Body/Naked_Thin</HumanlikePreTeenager>
+						<HumanlikeChild>Ratkin/Body/Naked_Child</HumanlikeChild>
+						<HumanlikeBaby>Ratkin/Body/Naked_Baby</HumanlikeBaby>
+					</ageGraphics>
+				</body>
+			</value>
+		</match>
 	</Operation>
 	
 	<!-- Hair -->
