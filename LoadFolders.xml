@@ -6,7 +6,8 @@
 		<li IfModNotActive="imranfish.xmlextensions">Compatibility/Default</li>
 		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
 		<li IfModActive="Rin.RatkinApparel">Compatibility/Apparel+</li>
-		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/Body</li>
+		<li IfModActive="DARKkai.RatkinBackStoryExpanded">Compatibility/Backstory</li>
+		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/BodyRetexture</li>
 		<li IfModActive="gomi.RKPanties">Compatibility/NewRatkinPanties</li>
 		<li IfModActive="bbb.ratkinweapon.morefailure">Compatibility/Weapons+</li>
 		<li IfModActive="AhnDemi.racesleepfaceaddon2">Compatibility/SleepyAddon</li>
@@ -17,7 +18,9 @@
 		<li IfModNotActive="imranfish.xmlextensions">Compatibility/Default</li>
 		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
 		<li IfModActive="Rin.RatkinApparel,PPONN.RatkinApparel">Compatibility/Apparel+</li>
-		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/Body</li>
+		<li IfModActive="MoManaCha.RatkinApparelExpanded">Compatibility/ApparelExpanded</li>
+		<li IfModActive="DARKkai.RatkinBackStoryExpanded">Compatibility/Backstory</li>
+		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/BodyRetexture</li>
 		<li IfModActive="fxz.ratkinfaction">Compatibility/Faction+</li>
 		<li IfModActive="EoralMilk.RatkinMoustate">Compatibility/Moustate</li>
 		<li IfModActive="EoralMilk.RatkinGeneExpanded">Compatibility/Muridae</li>
@@ -32,13 +35,18 @@
 		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
 		<li IfModActive="fxz.ratkinanomaly.update">Compatibility/Anomaly+</li>
 		<li IfModActive="Rin.RatkinApparel,PPONN.RatkinApparel">Compatibility/Apparel+</li>
-		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/Body</li>
-		<li IfModActive="funamusea.RatkinBodyRetextured">Compatibility/Body</li> <!--Temporary while I edit the textures-->
+		<li IfModActive="MoManaCha.RatkinApparelExpanded">Compatibility/ApparelExpanded</li>
+		<li IfModActive="DARKkai.RatkinBackStoryExpanded">Compatibility/Backstory</li>
+		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/BodyRetexture</li>
+		<li IfModActive="ICEorANGE.RKKjunfu">Compatibility/Clothes</li>
+		<li IfModActive="funamusea.RatkinBodyRetextured">Compatibility/CrazyCopepodBodyRetexture</li>
 		<li IfModActive="fxz.ratkinfaction">Compatibility/Faction+</li>
+		<li IfModActive="browncofe.RCG">Compatibility/GreatWar</li>
 		<li IfModActive="EoralMilk.RatkinMoustate">Compatibility/Moustate</li>
 		<li IfModActive="EoralMilk.RatkinGeneExpanded">Compatibility/Muridae</li>
 		<li IfModActive="gomi.RKPanties">Compatibility/NewRatkinPanties</li>
-		<li IfModActive="OARK.RatkinFaction.OberoniaAurea">Compatibility/Oberonia</li>
+		<li IfModActive="OARK.RatkinFaction.OberoniaAurea">Compatibility/OAOberonia</li>
+		<li IfModActive="OARK.RatkinFaction.ScenarioExpand.Snowstorm">Compatibility/OASnowstorm</li>
 		<li IfModActive="fxz.ratkinvehicle.morefailure">Compatibility/Vehicles+</li>
 		<li IfModActive="bbb.ratkinweapon.morefailure">Compatibility/Weapons+</li>
     </v1.5>
@@ -49,13 +57,22 @@
 		<li IfModNotActive="imranfish.xmlextensions">Compatibility/Default</li>
 		<li IfModActive="imranfish.xmlextensions">Compatibility/Settings</li>
 		<li IfModActive="fxz.ratkinanomaly.update">Compatibility/Anomaly+</li>
-		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/Body</li>
-		<li IfModActive="funamusea.RatkinBodyRetextured">Compatibility/Body</li> <!--Temporary while I edit the textures-->
+		<li IfModActive="MoManaCha.RatkinApparelExpanded">Compatibility/ApparelExpanded</li>
+		<li IfModActive="acutus.SpaceRatCan">Compatibility/SpaceRatCan</li>
+		<li IfModActive="DARKkai.RatkinBackStoryExpanded">Compatibility/Backstory</li>
+		<li IfModActive="MoManaCha.RatkinBodyRetexture">Compatibility/BodyRetexture</li>
+		<li IfModActive="ICEorANGE.RKKjunfu">Compatibility/Clothes</li>
+		<li IfModActive="funamusea.RatkinBodyRetextured">Compatibility/CrazyCopepodBodyRetexture</li>
+		<li IfModActive="CursedRatkinarmor.g1Flag">Compatibility/Cursed</li>
+		<li IfModActive="DARKkai.RatkinEquipmentExpanded">Compatibility/EquipmentExpanded</li>
 		<li IfModActive="fxz.ratkinfaction">Compatibility/Faction+</li>
+		<li IfModActive="browncofe.RCG">Compatibility/GreatWar</li>
 		<li IfModActive="EoralMilk.RatkinMoustate">Compatibility/Moustate</li>
 		<li IfModActive="EoralMilk.RatkinGeneExpanded">Compatibility/Muridae1.6</li>
 		<li IfModActive="gomi.RKPanties">Compatibility/NewRatkinPanties</li>
-		<li IfModActive="OARK.RatkinFaction.OberoniaAurea">Compatibility/Oberonia</li>
+		<li IfModActive="OARK.RatkinFaction.OberoniaAurea">Compatibility/OAOberonia</li>
+		<li IfModActive="OARK.RatkinFaction.ScenarioExpand.Snowstorm">Compatibility/OASnowstorm</li>
+		<li IfModActive="RKU.RatkinUnderground">Compatibility/Underground</li>
 		<li IfModActive="bbb.ratkinweapon.morefailure">Compatibility/Weapons+</li>
     </v1.6>
 </loadFolders>
